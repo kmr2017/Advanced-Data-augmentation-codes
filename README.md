@@ -1,4 +1,4 @@
-# Data Advanced data augmentations
+# Advanced data augmentations
 ----------------------------------
 ## Basic Data Augmentation 
 ### Image manipulation
