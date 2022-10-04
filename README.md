@@ -1,4 +1,5 @@
 # Data Advanced data augmentations
+----------------------------------
 ## Basic Data Augmentation 
 ### Image manipulation
 
@@ -9,6 +10,7 @@
 #### Erasing 
 
 ## Advanced Data Augmentation
+----------------------------------
 ### Image Mixing 
 #### Single Image 
 #### Multi-Images 
