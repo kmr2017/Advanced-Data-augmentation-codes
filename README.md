@@ -17,11 +17,11 @@
 
 
 ### Image Erasing
-#### Erasing 
-##### Cutout
-##### Random erasing
-##### Hide-and-Seek
-##### GridMask
+ 
+##### [Cutout](https://github.com/uoguelph-mlrg/Cutout)
+##### [Random erasing](https://github.com/zhunzhong07/Random-Erasing)
+##### [Hide-and-Seek](https://github.com/kkanshul/Hide-and-Seek)
+##### [GridMask](https://github.com/dvlab-research/GridMask)
 
 
 ## Advanced Image Data Augmentations
@@ -29,12 +29,12 @@
 ### Image Mixing 
 #### Single Image 
 ##### Local Augment
-##### Self-Augmentation
-##### SalfMix
-##### KeepAugment
-##### You Only Cut Once
-##### Cut-Thumbnail
-##### Smart Augmentation
+##### [Self-Augmentation](https://github.com/cjrd/selfaugment)
+##### [SalfMix](N/A)
+##### [KeepAugment](https://github.com/cjf8899/KeepAugment_Pytorch)
+##### [You Only Cut Once](https://github.com/JunlinHan/YOCO)
+##### [Cut-Thumbnail](https://github.com/TianshuXie/Cut-Thumbnail)
+##### [Smart Augmentation](https://github.com/lanPN85/smart-augment)
 
 
 #### Multi-Images 
