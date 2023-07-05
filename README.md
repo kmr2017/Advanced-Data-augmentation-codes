@@ -2,22 +2,18 @@
 ------------------------------------------------
 ## Basic  Image Data Augmentations
 ### Image manipulation
-
 #### Geometric Image Augmentation
-##### Rotation 
-##### Translation
-##### Shearing 
-
-
-
+##### [Rotation](https://pytorch.org/vision/stable/generated/torchvision.transforms.RandomRotation.html#torchvision.transforms.RandomRotation) 
+##### [Translation](https://pytorch.org/vision/stable/generated/torchvision.transforms.RandomAffine.html#torchvision.transforms.RandomAffine)
+##### [Shearing](https://pytorch.org/vision/stable/generated/torchvision.transforms.functional.affine.html#torchvision.transforms.functional.affine) 
 
 #### Non-Geometric Augmentation
-##### Flipping
-##### Cropping and resizing 
-##### Noise Injection 
-##### Color Space
-##### Jitter
-##### Kernel Filter
+##### [Flipping](https://pytorch.org/vision/main/generated/torchvision.transforms.RandomHorizontalFlip.html#torchvision.transforms.RandomHorizontalFlip)
+##### [Cropping and resizing](https://pytorch.org/vision/main/generated/torchvision.transforms.functional.resized_crop.html) 
+##### [Noise Injection](https://github.com/takmin/DataAugmentation) 
+##### [Color Space](https://github.com/AbhishekMali21/HUMAN-SKIN-DETECTION-USING-DIFFERENT-COLOR-SPACES)
+##### [Jitter](https://mxnet.apache.org/versions/1.2.1/tutorials/python/types_of_data_augmentation.html)
+##### [Kernel Filter](https://www.kaggle.com/code/nghihuynh/data-augmentation-laplacian-pyramid-blending/notebook?scriptVersionId=102296475)
 
 
 ### Image Erasing
@@ -93,7 +89,7 @@
 
 
 ### Feature augmentation 
-#### Feature based augmentation
+#### Feature-based augmentation
 ##### FeatMatch
 ##### Dataset Augmentation in Feature Space
 ##### Feature Space Augmentation for Long-Tailed Data
